@@ -5,9 +5,12 @@
 **Offline:** Not on at all.
 
 I'm fine with pings and DMs, but PLEASE do so with some reason behind it!
- - Reply pings are a valid reason unless in immediate conversation.
- - Responding to me is a valid reason.
- - Immediately asking a question is a valid reason. DMing me "hi", "can I ask you something", etc. is not.
- - These matter less for friends. You'll know if you are one.
+ - In terms of pings, just don't spam ping me. Reply pings are fine.
+ - In terms of DMs:
+   - If you ask for permission, I'll probably say yes.
+   - Responding to me is a valid reason to DM me.
+   - Immediately asking a question is a valid reason. DMing me "hi", "can I ask you something", etc. is not.
+   - Don't spam DM me.
+   - These matter less for friends. You'll know if you are one.
 
 I do not have push notifications enabled on any platform! If something is urgent, I do check my phone periodically, but I cannot guarantee immediate responses.
