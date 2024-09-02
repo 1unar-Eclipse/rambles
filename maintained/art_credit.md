@@ -1,7 +1,7 @@
 # GitHub
  - Profile picture: `makatalt` on Twitter
    - [Link to Twitter post](https://twitter.com/makatalt/status/1769050964831396137)
-   - [Link to Nitter mirror](https://nitter.poast.org/makatalt/status/1769050964831396137)
+   - [Link to Nitter mirror (if you don't have Twitter)](https://nitter.poast.org/makatalt/status/1769050964831396137)
    - [Link to artist (Twitter)](https://twitter.com/makatalt)
    - [Link to artist (Nitter)](https://nitter.poast.org/makatalt)
 
