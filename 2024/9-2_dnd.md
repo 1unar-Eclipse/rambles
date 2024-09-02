@@ -24,6 +24,6 @@ And now we're at the present.
 
 ---
 
-I feel like I could've wrote more but I did not expect writing like this to be so draining LOL
+I feel like I could've wrote more but I did not expect writing like this would be so draining LOL
 
 I'll try to write 1 of these per week? Keep the muscles trained so I can make these actually have some better substance
