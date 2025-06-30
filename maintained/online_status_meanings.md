@@ -1,7 +1,11 @@
 **Online:** I am actively on my computer and available!
+
 **Mobile:** On my phone. Can look at quick things.
-**Away:** I probably left Discord on my phone open before putting it in my pocket. Treat as offline unless I respond.
+
+**Away:** I might be busy with something, or I may have left Discord on my phone, or I may have just not updated my status. Treat as offline unless I respond.
+
 **Do Not Disturb:** I'm doing something sensitive to audio, or want to keep Discord open without it being a distraction. I don't use this much.
+
 **Offline:** Not on at all.
 
 I'm fine with pings and DMs, but PLEASE do so with some reason behind it!
