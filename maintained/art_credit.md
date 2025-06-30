@@ -14,8 +14,8 @@
      - Not yet posted
    - [Link to artist (Twitter)](https://twitter.com/anameruvt)
    - [Link to artist (Nitter)](https://nitter.poast.org/anameruvt)
- - Banner: blendereels/itsplasma on Tumblr
-   - [Link to post](https://blendereels.tumblr.com/post/726224505727565824/commission-for-a-friend-lovely-character-this)
-   - [Link to artist](https://blendereels.tumblr.com/)
+ - Banner: `shadches72.bsky.social` on BlueSky
+   - Not yet posted
+   - [Link to artist](https://bsky.app/profile/shadches72.bsky.social)
 
 *Currently, nowhere else links to this page.*
