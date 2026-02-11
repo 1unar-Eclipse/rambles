@@ -9,8 +9,10 @@
 # Discord
  - Profile picture: `makataltalt` on Twitter
    - Same image as GitHub
- - Banner: `shadches72.bsky.social` on BlueSky
+
+# Minecraft
+ - Skin and Figura model: `snqwblind.bsky.social` on BlueSky
    - Not yet posted
-   - [Link to artist](https://bsky.app/profile/shadches72.bsky.social)
+   - [Link to artist](https://bsky.app/profile/snqwblind.bsky.social)
 
 *Currently, nowhere else links to this page.*
